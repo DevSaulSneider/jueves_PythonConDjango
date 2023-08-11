@@ -28,3 +28,10 @@ print("El area del rectangulo es: " + str(areaRectangulo(8,3)) )
 
 #Actividad crear dos funciones una que calcule el area del cuadrado 
 # y otro del triangulo
+
+# (base * altura) / 2
+
+def areaTriangulo(base, altura):
+    area = (base * altura) / 2
+    return area
+print("El area del triangulo es: " + str(areaTriangulo(8,3)) )
