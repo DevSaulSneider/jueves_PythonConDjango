@@ -26,3 +26,5 @@ def areaRectangulo(base, altura):
 
 print("El area del rectangulo es: " + str(areaRectangulo(8,3)) )
 
+#Actividad crear dos funciones una que calcule el area del cuadrado 
+# y otro del triangulo
