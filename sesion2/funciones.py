@@ -35,3 +35,6 @@ def areaTriangulo(base, altura):
     area = (base * altura) / 2
     return area
 print("El area del triangulo es: " + str(areaTriangulo(8,3)) )
+
+#FUNCINONES DE UNA CALCULADORA
+#Crea una funcion que sume, reste, multiplique y divida dos numeros
